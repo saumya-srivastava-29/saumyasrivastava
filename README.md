@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saumya-srivastava-29/saumya-srivastava.github.io/main/profile.JPG" width="150" height="150" style="border-radius: 50%;"><br>
+  <img src="https://raw.githubusercontent.com/saumya-srivastava-29/saumyasrivastava/main/profile.JPG" width="150" height="150" style="border-radius: 50%;"><br>
 </p>
 
 <h1 align="center">Saumya Srivastava</h1>
@@ -94,7 +94,6 @@ NLP Techniques: Prompt Engineering, Intent Detection
 ---
 
 ### 🦟 Malaria Forecasting using Time Series
-🦟 Malaria Forecasting using Time Series
 
 📌 Project Overview
 
@@ -146,5 +145,3 @@ Evaluation: RMSE, MAE, MAPE
 </p>
 
 ---
-
-> 🧠 Built with HTML & CSS • Hosted on GitHub Pages
