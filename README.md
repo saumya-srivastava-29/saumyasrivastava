@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saumya-srivastava-29/saumya-srivastava.github.io/main/profile.jpg" width="150" height="150" style="border-radius: 50%;"><br>
+  <img src="https://raw.githubusercontent.com/saumya-srivastava-29/saumya-srivastava.github.io/main/profile.JPG" width="150" height="150" style="border-radius: 50%;"><br>
 </p>
 
 <h1 align="center">Saumya Srivastava</h1>
