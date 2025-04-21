@@ -53,6 +53,10 @@ Python: pandas, numpy, scikit-learn, SpaCy
 NLP Techniques: TF-IDF, Cosine Similarity
 Deployment: Streamlit
 
+🔗 Project Links
+
+<p> <a href="https://github.com/saumya-srivastava-29/checkresumefitscore" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub Repo"/> </a> &nbsp;&nbsp; <a href="https://checkresumefitscore.streamlit.app" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Live Streamlit App"/> </a> </p>
+
 ---
 
 🤖 LLM-powered Personal Assistant Chatbot
@@ -82,17 +86,9 @@ LLM Integration: OpenAI API / HuggingFace Model (e.g., GPT-2/3.5)
 Frontend: Streamlit
 NLP Techniques: Prompt Engineering, Intent Detection
 
-#### 🔗 Project Links
+🔗 Project Links
 
-<p>
-  <a href="https://github.com/yourusername/resume-matcher" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://checkresumefitscore.streamlit.app" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit App" width="100"/>
-  </a>
-</p>
+<p> <a href="https://github.com/saumya-srivastava-29/Assistant-chatbot" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub Repo"/> </a> &nbsp;&nbsp; <a href="https://assistantchatbot.streamlit.app" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Live Streamlit App"/> </a> </p>
 
 ---
 
@@ -124,6 +120,10 @@ Python: pandas, numpy, matplotlib, seaborn
 Modeling Libraries: statsmodels, keras, sklearn
 Forecasting Techniques: ARIMA, SARIMA, LSTM
 Evaluation: RMSE, MAE, MAPE
+
+🔗 Project Links
+
+<p> <a href="https://github.com/saumya-srivastava-29/Malaria-disease-forecast" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub Repo"/> </a> &nbsp;&nbsp; <a href="https://malaria-disease-forecast.streamlit.app" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Live Streamlit App"/> </a> </p>
 
 ---
 
