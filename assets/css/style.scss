@@ -1,5 +1,3 @@
----
----
 
 @import "{{ site.theme }}";
 
@@ -7,9 +5,10 @@
   background-color: transparent;
   box-shadow: none;
   border: none;
+  text-align: center;
 }
 
 .project-name,
 .btn {
-  display: none;  /* Hides the big title and GitHub button */
+  display: none;  /* Hides repo name and GitHub button */
 }
