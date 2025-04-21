@@ -6,13 +6,10 @@
 .page-header {
   background-color: transparent;
   box-shadow: none;
-  text-align: center;
+  border: none;
 }
 
-.project-name {
-  display: none; /* hides "saumyasrivastava" title */
-}
-
+.project-name,
 .btn {
-  display: none; /* hides the "View on GitHub" button */
+  display: none;  /* Hides the big title and GitHub button */
 }
