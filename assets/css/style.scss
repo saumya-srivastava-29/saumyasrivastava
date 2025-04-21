@@ -1,14 +1,9 @@
+---
+---
 
 @import "{{ site.theme }}";
 
+/* Remove entire header section in Slate */
 .page-header {
-  background-color: transparent;
-  box-shadow: none;
-  border: none;
-  text-align: center;
-}
-
-.project-name,
-.btn {
-  display: none;  /* Hides repo name and GitHub button */
+  display: none !important;
 }
