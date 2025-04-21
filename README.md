@@ -29,7 +29,8 @@ Bengal College of Engineering and Technology, India
 
 ## 💼 Projects
 
-📄 Resume & Job Description Matcher
+**📄 Resume & Job Description Matcher**
+
 📌 Project Overview
 
 This project uses Natural Language Processing (NLP) to compare a resume against a job description and generate a similarity score. The aim is to assist job seekers and recruiters in quickly identifying the most relevant candidate-job matches based on textual similarity.
@@ -47,19 +48,20 @@ Cosine similarity used to calculate similarity score between the two documents
 Interface:
 Simple Streamlit-based UI where users upload files and receive instant results
 Visualization of similarity score and relevant keywords
+
 🛠 Technologies Used
 
 Python: pandas, numpy, scikit-learn, SpaCy
 NLP Techniques: TF-IDF, Cosine Similarity
 Deployment: Streamlit
 
-🔗 Project Links
 
 <p> <a href="https://github.com/saumya-srivastava-29/checkresumefitscore" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub Repo"/> </a> &nbsp;&nbsp; <a href="https://checkresumefitscore.streamlit.app" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Live Streamlit App"/> </a> </p>
 
 ---
 
-🤖 LLM-powered Personal Assistant Chatbot
+**🤖 LLM-powered Personal Assistant Chatbot**
+
 📌 Project Overview
 
 This project features a smart assistant chatbot powered by a Large Language Model (LLM), capable of understanding and responding to user queries in a natural, human-like manner. It acts as a personal AI assistant, able to answer questions, summarize information, perform small tasks, and hold conversations — all through an intuitive chat interface.
@@ -79,6 +81,7 @@ Chat history maintained within the session
 Optional Features (if you’ve added any):
 Voice input or text-to-speech output
 API integration with tools (e.g., weather, Wikipedia, email)
+
 🛠 Technologies Used
 
 Python: Streamlit, Requests, LangChain / HuggingFace Transformers
@@ -86,14 +89,13 @@ LLM Integration: OpenAI API / HuggingFace Model (e.g., GPT-2/3.5)
 Frontend: Streamlit
 NLP Techniques: Prompt Engineering, Intent Detection
 
-🔗 Project Links
-
 <p> <a href="https://github.com/saumya-srivastava-29/Assistant-chatbot" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub Repo"/> </a> &nbsp;&nbsp; <a href="https://assistantchatbot.streamlit.app" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Live Streamlit App"/> </a> </p>
 
 ---
 
 ### 🦟 Malaria Forecasting using Time Series
 🦟 Malaria Forecasting using Time Series
+
 📌 Project Overview
 
 This project aims to forecast malaria case counts using historical disease outbreak data. By leveraging time series forecasting techniques, the goal is to provide early warnings for healthcare agencies and policymakers, enabling better resource allocation and preventive measures.
@@ -114,6 +116,7 @@ Evaluation Metrics:
 Root Mean Squared Error (RMSE)
 Mean Absolute Error (MAE)
 Mean Absolute Percentage Error (MAPE)
+
 🛠 Technologies Used
 
 Python: pandas, numpy, matplotlib, seaborn
@@ -121,7 +124,6 @@ Modeling Libraries: statsmodels, keras, sklearn
 Forecasting Techniques: ARIMA, SARIMA, LSTM
 Evaluation: RMSE, MAE, MAPE
 
-🔗 Project Links
 
 <p> <a href="https://github.com/saumya-srivastava-29/Malaria-disease-forecast" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub Repo"/> </a> &nbsp;&nbsp; <a href="https://malaria-disease-forecast.streamlit.app" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Live Streamlit App"/> </a> </p>
 
